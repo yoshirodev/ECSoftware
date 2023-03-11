@@ -12,7 +12,7 @@ namespace PRSSoftware
     public partial class MainWindow : Window
     {
         private const string Gpt3Endpoint = "https://api.openai.com/v1/engines/davinci-codex/completions";
-        private const string Gpt3ApiKey = "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";
+        private const string Gpt3ApiKey = "";
 
         private string masterName = "Yoshiro";
         private string botName = "Epsilon";
